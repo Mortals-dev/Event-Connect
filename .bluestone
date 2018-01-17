@@ -2,7 +2,8 @@
 project:
   name: "Event Connect"
   version: "0.1"
-  featureId: null
+  featureId:
+  - "d7159dfb-cef2-4d74-86cc-556845a2a4bf"
   status:
     title: "Draft"
     details: null
