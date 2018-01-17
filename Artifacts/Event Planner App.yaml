@@ -1,0 +1,23 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://github.com/Mortals-dev/iOS-PlannerApp/tree/master"
+- key: "ApplicationId"
+  value: ""
+id: null
+name: "Event Planner App"
+artifactTypeId: "iOS App"
+description:
+  title: ""
+  details: "App for planning events."
+  icon: null
+  background: null
+  moreInfo: ""
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source:
+  url: "https://github.com/Mortals-dev/iOS-PlannerApp/tree/master"
+  type: "Github"
